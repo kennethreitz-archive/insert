@@ -1,6 +1,6 @@
 # Insert: a (potentially) great code editor for iOS
 
-There exists few great code editors for iOS — I've tried them all. My current favorites are [GoCoEdit](http://gocoedit.com) and [Coda](https://panic.com/coda/). 
+There exists few great code editors for iOS — I've tried them all. My current favorites are the excellent [GoCoEdit](http://gocoedit.com) and relatively reasonable [Coda](https://panic.com/coda/). 
 
 This project is an experiment, to see how hard it is to throw something together that is reasonable. Most attempts at doing so are pathetic, so I'd like to take a shot at it. The app, if ever finished, will be free, as in freedom.
 
