@@ -6,7 +6,7 @@ This project is an experiment, to see how hard it is to throw something together
 
 **The app, if ever finished, will be free, as in freedom, and its code will be open source.**
 
-*Help would be much appreciated*, as the only iOS development I have ever done is with the LOVE2D Framework. 
+*Help would be much appreciated*, as the only iOS development I have ever done is with the [Love2D](https://love2d.org) Framework. 
 
 ## Inteneded Workflow
 
