@@ -2,7 +2,7 @@
 
 There exists few great code editors for iOS — I've tried them all. My current favorites are the excellent [GoCoEdit](http://gocoedit.com) and relatively reasonable [Coda](https://panic.com/coda/). 
 
-This project is an experiment, to see how hard it is to throw something together that is reasonable. Most attempts at doing so are pathetic, so I'd like to take a shot at it. 
+This project is an experiment, to see how hard it is to throw something together that is reasonable. Most attempts at doing so are pathetic, so I'd like to take a shot at it. I understand that this is no easy task, so I may very well walk away from this — this is just an idea. I've been looking for something to do lately, and this seems like a great way to learn a few new things. 
 
 **The app, if ever finished, will be free, as in freedom, and its code will be open source.**
 
