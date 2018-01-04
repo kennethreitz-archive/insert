@@ -11,6 +11,7 @@ Help would be much appreciated, as the only iOS development I have ever done is 
 - iOS 11 Files integration, so you can edit files from any source with this application.
 - SFTP Workflow, as this seems to be the best. 
 - Potential collaboration with [Blink](http://www.blink.sh), for launching terminal connections from the editor. 
+- Potentially, have a built-in Git Client, **maybe**… that'd def be v2 though.
 
 ## Intended Enhancements
 
