@@ -8,7 +8,7 @@ This project is an experiment, to see how hard it is to throw something together
 
 *Help would be much appreciated*, as the only iOS development I have ever done is with the [Love2D](https://love2d.org) Framework. 
 
-## Inteneded Workflow
+## Intended Workflow
 
 - iOS 11 Files integration, so you can edit files from any source with this application.
 - SFTP Workflow, as this seems to be the best. 
