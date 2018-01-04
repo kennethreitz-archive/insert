@@ -1,4 +1,4 @@
-# Insert: A (potentially) great editor for iOS
+# Insert: a (potentially) great code editor for iOS
 
 There exists few great code editors for iOS — I've tried them all. My current favorites are [GoCoEdit](http://gocoedit.com) and [Coda](https://panic.com/coda/). 
 
